@@ -1,4 +1,4 @@
-# BEM-Practice-Project
+# HTML_CSS-Toast Message (BEM-Practice-Project)
 
-Creating Toast Message.
+Practice BEM convention through Toast Message Project
 Using BEM naming convention for blocks, elements and modifiers in project.
